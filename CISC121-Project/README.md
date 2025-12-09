@@ -81,7 +81,7 @@ Creating a step-by-step solution:
 ---
 
 ## Hugging Face Link
-**Play the live game here:** [Your Hugging Face Space URL will go here]
+**Play the live game here:** (https://huggingface.co/spaces/LailaWilcox/binary-search-game)
 
 ---
 
@@ -94,7 +94,7 @@ Creating a step-by-step solution:
 ### Installation & Running
 1. **Clone or download this repository**
    ```bash
-   git clone [your-github-repo-url]
+   git clone (https://github.com/lailawilcox07/Project/tree/main/CISC121-Project)
    cd binary-search-game
    ```
 
